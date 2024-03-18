@@ -1,4 +1,4 @@
-import logo from '../assets/gd-logo1.png';
+import logo from '../assets/gd-transparent.png';
 import { FaPhoneSquare } from 'react-icons/fa';
 
 

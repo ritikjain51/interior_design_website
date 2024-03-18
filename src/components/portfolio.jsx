@@ -21,6 +21,11 @@ const projects = [
     type: "Residential",
     image: "https://via.placeholder.com/300x200?text=Sunrise",
   },
+  {
+    name: "Sunrise",
+    type: "Residential",
+    image: "https://via.placeholder.com/300x200?text=Sunrise",
+  },
 ];
 
 const ProjectsTab = () => {
