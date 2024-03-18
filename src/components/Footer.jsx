@@ -14,9 +14,15 @@ const Footer = () => {
           Copyright © {getYear()} Construction | Powered by Construction
         </h2>
         <div className="flex  gap-4">
-          <ImFacebook2 color="white" size={25} />
-          <LuTwitter color="white" size={25} />
-          <FaInstagram color="white" size={25} />
+          <a href="https://www.facebook.com/grace.decor.2024/" target="_blank" rel="noopener noreferrer">
+            <ImFacebook2 color="white" size={25} />
+          </a>
+          {/* <a href="https://twitter.com/your-twitter-handle" target="_blank" rel="noopener noreferrer">
+            <LuTwitter color="white" size={25} />
+          </a> */}
+          <a href="https://www.instagram.com/grace_.decor/" target="_blank" rel="noopener noreferrer">
+            <FaInstagram color="white" size={25} />
+          </a>
         </div>
       </div>
     </div>

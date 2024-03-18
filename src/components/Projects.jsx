@@ -2,7 +2,7 @@ import img1 from '../assets/pic28-free-img.jpg';
 import img2 from '../assets/pic06-free-img.jpg';
 import img3 from '../assets/pic07-free-img.jpg';
 
-const ShowCase = () => {
+const Projects = () => {
   return (
     <div
       id="project"
@@ -32,4 +32,4 @@ const ShowCase = () => {
   );
 };
 
-export default ShowCase;
+export default Projects;

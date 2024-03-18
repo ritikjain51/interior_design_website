@@ -1,27 +1,27 @@
-import Address from './components/Address';
-import Background from './components/Background';
-import ContactForm from './components/ContactForm';
-import Details from './components/Details';
-import Footer from './components/Footer';
-import Hero from './components/Hero';
-import Logos from './components/Logos';
-import ShowCase from './components/ShowCase';
-import Spotlight from './components/Spotlight';
-
+import React from "react";
+import {
+    BrowserRouter as Router,
+    Routes,
+    Route,
+} from "react-router-dom";
+import Home from "./pages";
+import About from "./pages/about";
+import Team from "./pages/team";
+import Project from "./pages/project";
+import Contact from "./pages/contact";
+ 
 function App() {
-  return (
-    <div className="w-full">
-      <Hero />
-      <Details />
-      <Logos />
-      <Spotlight />
-      <Background />
-      <ContactForm />
-      <ShowCase />
-      <Address />
-      <Footer />
-    </div>
-  );
+    return (
+        <Router>
+            <Routes>
+                <Route exact path="/" element={<Home />} />
+                <Route path="/about" element={<About />} />
+                <Route path="/project" element={<Project />} />
+                <Route path="/team" element={<Team />} />
+                <Route path="/contact" element={<Contact />} />
+            </Routes>
+        </Router>
+    );
 }
-
+ 
 export default App;

@@ -34,7 +34,7 @@ const Details = () => {
             qui urna facilisis omnis erro.
           </p>
           <button className="px-5 flex items-center gap-3 max-w-[200px] text-white justify-center mt-10  py-3 rounded-lg bg-[#ff7a3d] transition-all hover:bg-[#3A3A3A]">
-            View Projects
+            <a href="#project">View Projects</a>
             <RiArrowRightSLine size={25} />
           </button>
         </div>

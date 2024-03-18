@@ -1,6 +1,6 @@
 import Card from './Card';
 import { FaPhoneSquare } from 'react-icons/fa';
-const Background = () => {
+const Enquiry = () => {
   return (
     <div className="full_bg  w-full mb-32 ">
       <div className="max-w-[1200px] mx-auto flex flex-col md:grid md:grid-cols-2 ">
@@ -27,4 +27,4 @@ const Background = () => {
   );
 };
 
-export default Background;
+export default Enquiry;
