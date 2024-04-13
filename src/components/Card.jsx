@@ -8,8 +8,7 @@ const Card = ({ heading1, heading2 }) => {
           {heading1} <br /> {heading2}!
         </h1>
         <p>
-          Enter description text here.Lorem ipsum dolor sit amet, consectetur
-          adipiscing elit.
+          Embracing elegance in design, purpose in construction – where every eco-conscious decision leads us closer to a sustainable tomorrow.
         </p>
         <button className="px-5 flex items-center gap-3 justify-center w-[200px] text-white  mx-auto py-3 rounded-lg bg-[#ff7a3d] transition-all hover:bg-[#3A3A3A]">
           <a href="#project">View Projects</a>

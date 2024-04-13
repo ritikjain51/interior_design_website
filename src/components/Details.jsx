@@ -23,15 +23,10 @@ const Details = () => {
           </h1>
           <div className="border-[0.5px] border-[#ff7a3d] max-w-32"></div>
           <p className="text-base font-light text-black tracking-wider">
-            Alias debitis exercitation habitant accusantium sem! Blandit
-            perspiciatis! Sem reprehenderit. Montes cillum, aliquam nonummy pede
-            sociosqu laborum vehicula platea. Arcu. Augue lectus libero alias,
-            tincidunt dolore, pulvinar, congue. Velit dictumst rutrum
-            voluptatibus! Laboriosam ante labore necessitatibus!
+          Driven by a passion for innovation and sustainability, we incorporate eco-friendly practices and materials into our projects, striving to minimize our environmental impact while maximizing comfort and functionality.
           </p>
           <p className="text-base font-light text-black tracking-wider">
-            Praesent risus minim distinctio adipisci cubilia auctor sem felis,
-            qui urna facilisis omnis erro.
+          Let us transform your space into a sanctuary of style and luxury
           </p>
           <button className="px-5 flex items-center gap-3 max-w-[200px] text-white justify-center mt-10  py-3 rounded-lg bg-[#ff7a3d] transition-all hover:bg-[#3A3A3A]">
             <a href="#project">View Projects</a>
@@ -49,10 +44,7 @@ const Details = () => {
             </h1>
             <div className="border-[0.5px] border-[#ff7a3d] max-w-32"></div>
             <p className="text-base  font-light text-black tracking-wider">
-              Alias debitis exercitation habitant accusantium sem! Blandit
-              perspiciatis! Sem reprehenderit. Montes cillum, aliquam nonummy
-              pede sociosqu laborum vehicula platea. Arcu. Augue lectus libero
-              alias, tincidunt dolore, pulvinar, congue.
+            Experience the epitome of refined living with our meticulously designed properties. At Grace Decor, we infuse every detail with elegance and purpose, creating spaces that inspire and delight.
             </p>
           </div>
         </div>

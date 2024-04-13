@@ -16,7 +16,7 @@ const Spotlight = () => {
             image={logo1}
             h1={'Design Built'}
             p={
-              'Nullam, cursus lacus assumenda, laboriosam. Laudantium per esse occaecati. Sociis veritatis velit commo.'
+              ' Elevate your lifestyle with our design-built residences, thoughtfully crafted to harmonize luxury and functionality.'
             }
           />
         </div>
@@ -25,7 +25,7 @@ const Spotlight = () => {
             image={logo2}
             h1={'Eco Friendly'}
             p={
-              'Nullam, cursus lacus assumenda, laboriosam. Laudantium per esse occaecati. Sociis veritatis velit commo.'
+              ' Embrace sustainability with our eco-friendly designs, integrating green practices for a healthier, more responsible way of living.'
             }
           />
         </div>
@@ -34,7 +34,7 @@ const Spotlight = () => {
             image={logo3}
             h1={'Modern Amenities'}
             p={
-              'Nullam, cursus lacus assumenda, laboriosam. Laudantium per esse occaecati. Sociis veritatis velit commo.'
+              'Enjoy the latest in comfort and convenience with our modern amenities, seamlessly blending technology and style for a superior living experience.'
             }
           />
         </div>

@@ -37,11 +37,11 @@ const ContactForm = () => {
         <h1 className=" tracking-widest text-left text-4xl font-bold ">
           We Offer Practical Solution to All Your Space Problems.
         </h1>
-        <p>⭐⭐⭐⭐⭐</p>
+        {/* <p>⭐⭐⭐⭐⭐</p>
         <p className=" text-left text-gray-700 text-xl font-medium ">
           Click edit button to change this text. Lorem ipsum dolor sit amet,
           consectetur adipiscing elit.tel. Ab accusamus dui nostrum nunc.
-        </p>
+        </p> */}
       </div>
       <div>
         <form className=" flex flex-col px-5 md:px-0 gap-5" action="" name='contactFrom' onSubmit={handleSubmit}>

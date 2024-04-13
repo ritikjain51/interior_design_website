@@ -17,8 +17,7 @@ const Enquiry = () => {
             <a href="tel:+919599277565">+91-9599277565</a>
             </h1>
             <p className="text-lg font-normal text-white">
-              Ornare explicabo, molestias numquam porta! Netus molestiae! Quidem
-              dictum cillum. Error tempore etiam, consectetuer fusce.
+            Get in touch today to start your journey towards an elegantly designed, sustainable space
             </p>
           </div>
         </div>

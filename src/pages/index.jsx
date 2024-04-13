@@ -14,7 +14,7 @@ function Home() {
       <Hero
         title="Grace Decor"
         subtitle="Interior - Construction"
-        description="– Ullam, tenetur aliqua nibh pretium potenti habitantelit irure quas eligendi, tempore torquent lectus dolore!"
+        description="Designing with grace, building with purpose – where every eco-friendly choice is a step towards a sustainable future."
         class_name="main_image"
       />
       <Details />

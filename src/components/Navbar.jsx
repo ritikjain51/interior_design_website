@@ -15,8 +15,9 @@ const Navbar = () => {
                 </div>
             </div>
             <div className="md:grid gap-7 md:gap-0 flex flex-col md:grid-cols-2 mt-8 ">
-                <div>
+                <div><a href="/">
                     <img src={logo} width="100px" height="100px" alt="/" />
+                </a>
                 </div>
                 <div className="flex px-6 min-h-[70px] border uppercase border-[#ff7a3d] items-center justify-between text-white font-medium text-base bg-black opacity-[0.7]">
                     <a className="text-[#ff7a3d]  " href="/">
