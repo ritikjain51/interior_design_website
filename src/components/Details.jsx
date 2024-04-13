@@ -29,7 +29,7 @@ const Details = () => {
           Let us transform your space into a sanctuary of style and luxury
           </p>
           <button className="px-5 flex items-center gap-3 max-w-[200px] text-white justify-center mt-10  py-3 rounded-lg bg-[#ff7a3d] transition-all hover:bg-[#3A3A3A]">
-            <a href="#project">View Projects</a>
+            <a href="/project">View Projects</a>
             <RiArrowRightSLine size={25} />
           </button>
         </div>

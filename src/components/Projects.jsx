@@ -1,6 +1,6 @@
-import img1 from '../assets/pic28-free-img.jpg';
-import img2 from '../assets/pic06-free-img.jpg';
-import img3 from '../assets/pic07-free-img.jpg';
+import img1 from '../assets/delhi.jpg';
+import img2 from '../assets/dehradun_tower.jpg';
+import img3 from '../assets/agra.jpg';
 import "../project.css";
 
 

@@ -21,7 +21,7 @@ const Team = () => {
           <img
             src={samyak}
             alt="Samyak Jain"
-            className="w-full h-60  object-cover mb-4"
+            className="w-full h-100  object-cover mb-4"
           />
           <h2 className="text-xl font-bold mb-2">Samyak Jain</h2>
           <p className="text-gray-600">Founder</p>
